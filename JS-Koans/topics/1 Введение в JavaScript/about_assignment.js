@@ -12,5 +12,3 @@ describe("About Assignment (about_assignment.js)", function () {
     expect(window.temp).toBe(temp);
   });
 });
-
-

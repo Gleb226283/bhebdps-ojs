@@ -38,3 +38,4 @@ describe("About Strings (about_strings.js)", function () {
     expect("apple").toBe(fruit.slice(0, 5));
   });
 });
+
